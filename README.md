@@ -1,6 +1,7 @@
 # CaptureIt
 A User-friendly Screen recording website
 
+## Checkout the website deployed on  render: https://captureit.onrender.com
 
 CapturIt is a powerful and user-friendly screen recording app built with HTML, CSS, and JavaScript. It allows users to record their screens seamlessly, providing an efficient way to capture tutorials, presentations, or any on-screen activity.
 
